@@ -70,7 +70,7 @@ const Main=()=>{
                            setUrl(prevUrl) 
                         }}>Previous</button>}
 
-            <input type="text" onChange={(e)=>{setinput(e.target.value)}}
+            <input type="text" onChange={(e)=>{setinput((e.target.value).toLowerCase())}}
             placeholder="Enter pokemon name"></input>
                 <button onClick={()=>{searchHandle()}}>Search</button>
 
