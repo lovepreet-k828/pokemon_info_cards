@@ -21,10 +21,14 @@ Pokemon info can be seen by either of following two ways
 2. Type name of pokemon in search bar and click search button.
 
 ## Screenshots
+- Landing page image
+![0](https://user-images.githubusercontent.com/96973220/177167659-3ef68d78-8993-4ed2-8edf-0b95297ccc81.jpg)
 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+- On click pokemon card
+![Untitled](https://user-images.githubusercontent.com/96973220/177167839-71c0b70e-4f93-4fe2-8381-abb9fae3f72d.jpg)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+- On searching pokemon by name
+![2](https://user-images.githubusercontent.com/96973220/177167901-170cc39e-d0b3-41cc-8945-ee1646b0d820.jpg)
 
 ## Technologies
 Following technologies are used to create this project.
