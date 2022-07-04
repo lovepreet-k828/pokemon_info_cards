@@ -1,0 +1,68 @@
+.abilities{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    border: none;
+    border-radius: 5px;
+    background-color: skyblue;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+}
+
+.abilities .group{
+    background-color: gold;
+    padding: 0.5rem;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin: 0.5rem;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+}
+
+.base-stat{
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+    background-color: skyblue;
+}
+
+.btn-img button{
+    outline: none;
+    border: none;
+    padding: 0.3rem 1rem;
+    margin: 1rem;
+    font-size: 17px;
+    font-weight: bolder;
+    color: white;
+    background-color: skyblue;
+    border-radius: 8px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+}
+
+.abilities .group:hover{
+    font-size: medium;
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+button {
+    outline: none;
+    border: none;
+    padding: 0.3rem 1rem;
+    margin: 1rem;
+    font-size: 17px;
+    font-weight: bolder;
+    color: white;
+    background-color: gold;
+    border-radius: 8px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+
+}
